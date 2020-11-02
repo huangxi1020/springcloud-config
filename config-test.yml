@@ -12,6 +12,7 @@ spring:
           ####搜索目录
           search-paths:
             - springcloud-config
+        info: master branch,springcloud-config/config-prod.yml version=1
       ####读取分支
       label: master
 
